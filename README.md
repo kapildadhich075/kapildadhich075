@@ -15,9 +15,9 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmyafmifhgqw5urk4bwnjjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmyafmifhgqw5urk4bwnjjg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildadhich075&show_icons=true&locale=en&layout=compact" alt="kapildadhich075" /></p>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kapildadhich075"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kapildadhich075" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildadhich075&show_icons=true&locale=en&layout=compact" alt="kapildadhich075" /></p>
+
 
 
