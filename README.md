@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kapildadhich075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapildadhich075" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kapildadhich075/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapildadhich075/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/075kapildadhich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/075kapildadhich/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmyafmifhgqw5urk4bwnjjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmyafmifhgqw5urk4bwnjjg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kapildadhich075/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapildadhich075/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/075kapildadhich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/075kapildadhich/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucmyafmifhgqw5urk4bwnjjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmyafmifhgqw5urk4bwnjjg" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildadhich075&show_icons=true&locale=en&layout=compact" alt="kapildadhich075" /></p>
