@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapildadhich075&label=Profile%20views&color=0e75b6&style=flat" alt="kapildadhich075" /> </p>
 
-- 🔭 I’m currently working on [Studflow](https://github.com/kapildadhich075/studflow)
+- 🔭 I’m currently working on [TLR Edit Form](https://github.com/kapildadhich075/tlr_edits_form)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pqyyGE5MfU-DjvYvk0WsvBpmuTJBDNx4/view?usp=drive_link)
 
@@ -16,7 +16,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildadhich075&show_icons=true&locale=en&layout=compact" alt="kapildadhich075" /></p>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kapildadhich075"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kapildadhich075" /></a></p>
+<p><a href="https://buymeacoffee.com/kapildadhich075"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kapildadhich075" /></a></p>
 
 
 
