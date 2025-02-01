@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TLR Studios](https://github.com/kapildadhich075/tlr-website-2025)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pqyyGE5MfU-DjvYvk0WsvBpmuTJBDNx4/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TyzFHQEyGljl8WoqoOez2Jt5K3DmAwrb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
