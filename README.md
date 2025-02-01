@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/kapildadhich075/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapildadhich075/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/075kapildadhich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/075kapildadhich/" height="30" width="40" /></a>
 <a href="https://youtube.com/@kapildadhich075?si=yfmDWRFIBQksPCu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@kapildadhich075?si=yfmDWRFIBQksPCu1" height="30" width="40" /></a>
-  <a href="https://kapildadhich075.netlify.app/" target="blank"><img align="center" src="https://ik.imagekit.io/umdiwr6ma/portfolio/bitmoji.png?updatedAt=1735242653914" alt="portfolio" height="30" width="40" /></a>
+  <a href="https://kapildadhich075.netlify.app/" target="blank"><img align="center" src="https://ik.imagekit.io/umdiwr6ma/portfolio/bitmoji.png?updatedAt=1735242653914" alt="portfolio" height="40" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildadhich075&show_icons=true&locale=en&layout=compact" alt="kapildadhich075" /></p>
